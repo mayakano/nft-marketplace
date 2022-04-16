@@ -37,7 +37,7 @@ export default function Navbar() {
                 <div className="flex-shrink-0 flex items-center">
                   <img
                     className="hidden lg:block h-10 w-auto"
-                    src="/images/page_logo.png"
+                    src="/images/kanologo-wh.png"
                     alt="Workflow"
                   />
                 </div>
